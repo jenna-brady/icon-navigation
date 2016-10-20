@@ -1,0 +1,23 @@
+html {
+  font-family: 'Abhaya Libre', serif;
+}
+
+header {
+  background-color: #423ca3;
+}
+
+h1 {
+  color: #fff;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #fff;
+  background-color: #15114c;
+}
+
+a:hover {
+  background-color: #0074d9;
+  color: #15114c;
+  background-color: #fff;
+}
